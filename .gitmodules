@@ -19,3 +19,6 @@
 [submodule "lab4"]
 	path = lab4
 	url = git@github.com:temttae/eecs388-lab4.git
+[submodule "p4-application-security"]
+	path = p4-application-security
+	url = git@github.com:temttae/eecs388-p4-application-security.git
