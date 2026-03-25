@@ -13,3 +13,6 @@
 [submodule "lab3"]
 	path = lab3
 	url = git@github.com:temttae/eecs388-lab3.git
+[submodule "p3-networking"]
+	path = p3-networking
+	url = git@github.com:temttae/eecs388-p3-networking.git
