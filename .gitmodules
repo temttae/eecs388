@@ -7,3 +7,6 @@
 [submodule "lab2"]
 	path = lab2
 	url = git@github.com:temttae/eecs388-lab2.git
+[submodule "p2-web"]
+	path = p2-web
+	url = git@github.com:temttae/eecs388-p2-web.git
